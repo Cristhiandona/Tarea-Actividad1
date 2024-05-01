@@ -5,7 +5,10 @@
   "main": "actividad2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dos": "node actividad2.js"
+    "dos": "node ejercicio2.js",
+    "cuatro": "node ejercicio4.js",
+    "siete": "node ejercicio7.js",
+    "nueve": "node ejercicio9.js"
   },
   "keywords": [],
   "author": "",

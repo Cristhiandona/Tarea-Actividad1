@@ -5,3 +5,5 @@ Ejercicio 2. Factorial:Implementa una función que calcule el factorial de un n�
 Puedes usar cualquier tipo de función.
 */
 
+
+
