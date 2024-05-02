@@ -17,3 +17,4 @@ function Palindromo(words) {
 }
 
 console.log(Palindromo("oso"));
+

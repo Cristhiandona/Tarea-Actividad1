@@ -18,3 +18,4 @@ Factorial(number);
 
 console.log("El Factorial de:", number, " es ", Factorial(number));
 
+

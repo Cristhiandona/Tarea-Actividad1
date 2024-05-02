@@ -22,3 +22,4 @@ function Multiplicar(num) {
 }
 
 console.table(Multiplicar(2));
+

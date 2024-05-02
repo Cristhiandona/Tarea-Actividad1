@@ -15,3 +15,4 @@ function Counter(words = ""){
 
 words = "carro";
 console.log("La palabra", words, "tiene",Counter(words), "letras");
+
