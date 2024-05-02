@@ -8,7 +8,14 @@
     "dos": "node ejercicio2.js",
     "cuatro": "node ejercicio4.js",
     "siete": "node ejercicio7.js",
-    "nueve": "node ejercicio9.js"
+    "nueve": "node ejercicio9.js",
+    "uno": "node ejercicio1.js",
+    "tres": "node ejercicio3.js",
+    "cinco": "node ejercicio5.js",
+    "seis": "node ejercicio6.js",
+    "ocho": "node ejercicio8.js",
+    "diez": "node ejercicio10.js"
+
   },
   "keywords": [],
   "author": "",
